@@ -1,0 +1,26 @@
+body {
+        background-image: url("https://cdn.pixabay.com/photo/2016/06/17/06/04/background-1462755_1280.jpg");
+        background-color:linear-gradient(-90deg, white, rgb(197, 0, 115));
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.p {
+    color: white;
+    background-color: rgb(78, 0, 39);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.i {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
